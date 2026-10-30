@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gotoba-jikaawase",
  "yomi": "ごとばいんおんじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（十番）",
+  "era": "嘉禄2年（1226）4月",
+  "author": "後鳥羽院（自撰）、判者 藤原家隆",
+  "desc": "隠岐の後鳥羽院が自詠を十番に番えた自歌合。家隆が判を加え、句の続きや姿をたたえて秀逸の持とする番が多い。"
+ },
  "editions": [
   {
    "pid": "1879502",
